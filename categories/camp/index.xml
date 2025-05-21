@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camp on Adventures of Spid3r</title>
+    <link>http://localhost:1313/categories/camp/</link>
+    <description>Recent content in Camp on Adventures of Spid3r</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2025 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/camp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global Cybersecurity Camp 2025 - Taiwan</title>
+      <link>http://localhost:1313/post/gcc_2025/</link>
+      <pubDate>Sat, 15 Feb 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/post/gcc_2025/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
