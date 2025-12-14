@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Adventures of Spid3r</title>
-    <link>https://blog.sondt.id.vn/categories/</link>
+    <link>https://blog.nosiaht.com/categories/</link>
     <description>Recent content in Categories on Adventures of Spid3r</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Dec 2025 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://blog.sondt.id.vn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.nosiaht.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CTF</title>
-      <link>https://blog.sondt.id.vn/categories/ctf/</link>
+      <link>https://blog.nosiaht.com/categories/ctf/</link>
       <pubDate>Mon, 08 Dec 2025 11:00:00 -0700</pubDate>
-      <guid>https://blog.sondt.id.vn/categories/ctf/</guid>
+      <guid>https://blog.nosiaht.com/categories/ctf/</guid>
       <description></description>
     </item>
     <item>
       <title>IoT</title>
-      <link>https://blog.sondt.id.vn/categories/iot/</link>
+      <link>https://blog.nosiaht.com/categories/iot/</link>
       <pubDate>Mon, 01 Jan 2024 01:00:00 -0700</pubDate>
-      <guid>https://blog.sondt.id.vn/categories/iot/</guid>
+      <guid>https://blog.nosiaht.com/categories/iot/</guid>
       <description></description>
     </item>
   </channel>
